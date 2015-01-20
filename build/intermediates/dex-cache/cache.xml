@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lzhan/AndroidStudioProjects/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/lzhan/AndroidStudioProjects/SimpleTodo/app/build/intermediates/pre-dexed/debug/classes-089a45d6343cd6aab11aeec06b058fb7e64893fa.jar" />
+    </item>
+    <item
+        jar="/Users/lzhan/Documents/android/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/lzhan/AndroidStudioProjects/SimpleTodo/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-da2932a33813d946da37f7070cee7d44a148e0ff.jar" />
+    </item>
+    <item
+        jar="/Users/lzhan/AndroidStudioProjects/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/lzhan/AndroidStudioProjects/SimpleTodo/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-92f553c68e66150a479e31ce1e2ec134209f4673.jar" />
+    </item>
+    <item
+        jar="/Users/lzhan/AndroidStudioProjects/SimpleTodo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/lzhan/AndroidStudioProjects/SimpleTodo/app/build/intermediates/pre-dexed/debug/classes-79841d714957df095efb2401198bba99acc99963.jar" />
+    </item>
+    <item
+        jar="/Users/lzhan/AndroidStudioProjects/SimpleTodo/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/lzhan/AndroidStudioProjects/SimpleTodo/app/build/intermediates/pre-dexed/debug/commons-io-2.4-c3d9216ac1fd118eca173eea2bd8d68efb95234d.jar" />
+    </item>
+
+</items>
